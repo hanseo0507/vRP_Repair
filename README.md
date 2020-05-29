@@ -7,6 +7,7 @@
 [https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287](https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287)
 
 제작자 : [Nikue95](https://github.com/Nikuez95)
+
 컨버터 : [HanSeo](https://github.com/HanSeo0507)
 ## English
 
@@ -16,4 +17,5 @@ Original : [https://github.com/Nikuez95/nk_repair](https://github.com/Nikuez95/n
 [https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287](https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287)
 
 Author : [Nikue95](https://github.com/Nikuez95)
+
 Modified : [HanSeo](https://github.com/HanSeo0507)
