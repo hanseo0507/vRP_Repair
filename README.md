@@ -3,7 +3,7 @@
 ## 한국어 
 원본 파일 : [https://github.com/Nikuez95/nk_repair](https://github.com/Nikuez95/nk_repair)
 
-해당 스크립트를 사용하기위해서는 ProgressBars 스크립트가 필요합니다
+해당 스크립트를 사용하기위해서는 **ProgressBars** 스크립트가 필요합니다
 [https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287](https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287)
 
 제작자 : [Nikue95](https://github.com/Nikuez95)
@@ -12,7 +12,7 @@
 
 Original : [https://github.com/Nikuez95/nk_repair](https://github.com/Nikuez95/nk_repair)
 
-ProgressBars script is required to use that script
+**ProgressBars** script is required to use that script
 [https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287](https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287)
 
 Author : [Nikue95](https://github.com/Nikuez95)
